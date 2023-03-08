@@ -9,4 +9,4 @@ So to keep it isolated I went with 1. and will upload the whole project here.
 
 ---
 
-**FIGMA:** https://www.figma.com/file/aYVtWj3pTwIMF4gYay4EOF/Diceroller?node-id=0%3A1&t=TC9dp3TGBIQcRI1Y-1
+**FIGMA:** [Dice Template](https://www.figma.com/file/aYVtWj3pTwIMF4gYay4EOF/Diceroller?node-id=0%3A1&t=TC9dp3TGBIQcRI1Y-1)
